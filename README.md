@@ -7,4 +7,4 @@
   * `Seasonal_data_extraction.ipynb` gives an example of how to extract seasonal data. This notebook uses data from `sample_data.mat` 
   * Built using Python 3. Requirements: **numpy, pandas, matplotlib, scipy, graphviz**.
   * Graphviz installation instructions: https://pypi.org/project/graphviz/
-  * HTML version of the notebooks are included in the repository. Or use nbviewer to preview notebooks.
+  * Use nbviewer to preview notebooks https://nbviewer.jupyter.org/github/savinims/DATAS_Causal_Discovery/tree/master/PC_Stable/
