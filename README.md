@@ -3,6 +3,8 @@
 
   * PC_Stable_for_Time_Series.ipynb is the main tutorial
   * Seasonal_data_extraction.ipynb gives an example of how to extract seasonal data. This notebook uses the data from the sample_data.mat 
+  * Built using Python 3. Requirements: numpy, pandas, matplotlib, scipy, graphviz.
+  
 
 * This tutorial has been written with a focus on atmospheric science applications and is part of the Data Analysis Tools for Atmospheric Scientists (DATAS) Gateway.
 * Created by Savini M. Samarasinghe, Colorado State University, Fort Collins, CO.
