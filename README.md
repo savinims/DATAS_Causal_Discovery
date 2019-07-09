@@ -3,7 +3,7 @@
 * Created by Savini M. Samarasinghe, Colorado State University, Fort Collins, CO.
 
 ### Time series extension of the PC stable algorithm
-  * `PC_Stable_for_time_series.ipynb` is the main tutorial
+  * `PC_stable_for_time_series.ipynb` is the main tutorial
   * `Seasonal_data_extraction.ipynb` gives an example of how to extract seasonal data. This notebook uses data from `sample_data.mat` 
   * Built using Python 3. Requirements: **numpy, pandas, matplotlib, scipy, graphviz**.
   * Graphviz installation instructions: https://pypi.org/project/graphviz/
