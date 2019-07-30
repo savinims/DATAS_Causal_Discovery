@@ -3,7 +3,10 @@
 * Created by Savini M. Samarasinghe, Colorado State University, Fort Collins, CO.
 
 ### Time series extension of the PC stable algorithm
-  * `PC_stable_for_time_series.ipynb` is the main tutorial
+PC stable algorithm can be used to learn a probabilistic graphical model representation of data where the variables of interest are presented as nodes of a graph and the stochastic relationships between the variables are presented as graph edges.
+
+About the files and requirements:
+  * `PC_stable_for_time_series.ipynb` is the main tutorial. This notebook provides a simple example of how the PC stable algorithm can be used to find potential cause-effect relationships between a set of time series variables. 
   * `Seasonal_data_extraction.ipynb` gives an example of how to extract seasonal data. This notebook uses data from `sample_data.mat` 
   * Built using Python 3. Requirements: **numpy, pandas, matplotlib, scipy, graphviz**.
   * Graphviz installation instructions: https://pypi.org/project/graphviz/
