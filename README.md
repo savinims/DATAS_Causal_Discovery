@@ -1,5 +1,5 @@
 # Causal Discovery Tools for Time Series Applications - A Collection of Tutorials
-* Tutorials written with a focus on atmospheric science applications as part of the Data Analysis Tools for Atmospheric Scientists (DATAS) Gateway.
+* Tutorials written with a focus on atmospheric science applications as part of the Data Analysis Tools for Atmospheric Scientists (DATAS https://datasgateway.colostate.edu/) Gateway.
 * Created by Savini M. Samarasinghe, Colorado State University, Fort Collins, CO.
 
 ### (1) Time series extension of the PC stable algorithm
@@ -13,4 +13,6 @@ About the files and requirements:
   * Use nbviewer to preview notebooks https://nbviewer.jupyter.org/github/savinims/DATAS_Causal_Discovery/tree/master/PC_Stable/
   
  ### (2) Bivariate Granger causality test
+ 
+ * Use nbviewer to preview notebook https://nbviewer.jupyter.org/github/savinims/DATAS_Causal_Discovery/blob/master/Bivariate_Granger_Causality/Granger_causality.ipynb
  
