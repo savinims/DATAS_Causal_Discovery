@@ -1,5 +1,5 @@
 # Causal Discovery Tools for Time Series Applications - A Collection of Tutorials
-* Tutorials written with a focus on atmospheric science applications as part of the Data Analysis Tools for Atmospheric Scientists (DATAS https://datasgateway.colostate.edu/) Gateway.
+* Tutorials written with a focus on atmospheric science applications as part of the Data Analysis Tools for Atmospheric Scientists (DATAS) Gateway. DATAS - https://datasgateway.colostate.edu/
 * Created by Savini M. Samarasinghe, Colorado State University, Fort Collins, CO.
 
 ### (1) Time series extension of the PC stable algorithm
