@@ -7,7 +7,6 @@
  ### (1) Bivariate Granger causality test
  This is the most commonly used approach to find cause-effects in climate science to date.
  * Built using Python 3. Requirements: **numpy, pandas, matplotlib, scipy, statsmodels**.
- * Use nbviewer to preview notebook https://nbviewer.jupyter.org/github/savinims/DATAS_Causal_Discovery/blob/master/Bivariate_Granger_Causality/Granger_causality.ipynb
  * Cite as: Savini Samarasinghe; Marie McGraw (2019), "Bivariate Granger Causality Example," https://datasgateway.colostate.edu/resources/234.
  
 
@@ -19,7 +18,6 @@ About the files and requirements:
   * `Seasonal_data_extraction.ipynb` gives an example of how to extract seasonal data. This notebook uses data from `sample_data.mat` 
   * Built using Python 3. Requirements: **numpy, pandas, matplotlib, scipy, graphviz**.
   * Graphviz installation instructions: https://pypi.org/project/graphviz/
-  * Use nbviewer to preview notebooks https://nbviewer.jupyter.org/github/savinims/DATAS_Causal_Discovery/tree/master/PC_Stable/
   * Cite as: Savini Samarasinghe (2019), "PC Stable Example," https://datasgateway.colostate.edu/resources/218.
   
 
